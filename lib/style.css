@@ -73,6 +73,7 @@ border: 2px solid white;
 
 .list-non-bullet{
     list-style: none;
+    
 }
 
 .list-item-inline{
@@ -211,6 +212,12 @@ border: 2px solid white;
 .footer ul{
     padding-inline-start: 0px;
     
+}
+
+.project-name{
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
 }
 
 
